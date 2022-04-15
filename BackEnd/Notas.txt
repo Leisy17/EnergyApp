@@ -1,2 +1,7 @@
-# #Server:
+# # Server:
 http://127.0.0.1:8000/
+
+# # Superuser
+* User: leisy
+* Email: leisysado@gmail.com
+* Password: super1997
