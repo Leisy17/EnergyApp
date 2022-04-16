@@ -5,3 +5,11 @@ http://127.0.0.1:8000/
 * User: leisy
 * Email: leisysado@gmail.com
 * Password: super1997
+
+________________________________________________________
+
+$ makemigrations: reconocer nuevos modelos
+$ migrate: mandar modificaciones a la base de datos
+
+________________________________________________________
+
